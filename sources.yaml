@@ -1,0 +1,11 @@
+rss:
+  - https://techcrunch.com/tag/artificial-intelligence/feed/
+  - https://www.theverge.com/artificial-intelligence/rss/index.xml
+  - https://venturebeat.com/category/ai/feed/
+  - https://feeds.arstechnica.com/arstechnica/technology-lab
+arxiv:
+  - cs.AI
+  - cs.LG
+  - cs.CL
+  - cs.CV
+  - cs.RO
